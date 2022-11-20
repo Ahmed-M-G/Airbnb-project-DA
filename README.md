@@ -8,6 +8,6 @@
  
 ## Description of Data:
  The dataset comprises of three main tables:
-  • listings - Detailed listings data showing 96 attributes for each of the listings. Some of the attributes used in the analysis are price(continuous), longitude (continuous), latitude (continuous), listing type (categorical), is superhost (categorical), neighbourhood (categorical), ratings (continuous) among others.
-  • reviews - Detailed reviews given by the guests with 6 attributes. Key attributes include date (datetime), listing id (discrete), reviewer id (discrete) and comment (textual).
-  • calendar - Provides details about booking for the next year by listing. Four attributes in total including listing id (discrete), date(datetime), available (categorical) and price (continuous).
+  * listings - Detailed listings data showing 96 attributes for each of the listings. Some of the attributes used in the analysis are price(continuous), longitude (continuous), latitude (continuous), listing type (categorical), is superhost (categorical), neighbourhood (categorical), ratings (continuous) among others.
+  * reviews - Detailed reviews given by the guests with 6 attributes. Key attributes include date (datetime), listing id (discrete), reviewer id (discrete) and comment (textual).
+  * calendar - Provides details about booking for the next year by listing. Four attributes in total including listing id (discrete), date(datetime), available (categorical) and price (continuous).
